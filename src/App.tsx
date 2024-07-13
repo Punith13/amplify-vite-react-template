@@ -38,7 +38,7 @@ function App() {
               ))}
             </ul>
             <div>
-              🥳 App successfully hosted. Try creating a new todo. Yeh!
+              🥳 App successfully hosted. Try creating a new todo. Yeh!!
               <br />
               <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
                 Review next step of this tutorial.
